@@ -9,4 +9,11 @@ import scrapy
 class SearchanalysisItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    pass
+    imdbRate=scrapy.Field()
+    rottRate=scrapy.Field()
+    imdbLink=scrapy.Field()
+    rottLink=scrapy.Field()
+    imdb_rating_no=scrapy.Field()
+    imdb_rating_votes= scrapy.Field()
+    imdb_reviews= scrapy.Field()
+    im_detailed_reviews=scrapy.Field()
