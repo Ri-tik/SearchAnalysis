@@ -2,7 +2,9 @@ import scrapy,csv
 import pip._vendor.requests as request
 from scrapy.http import TextResponse
 from scrapy.linkextractors import LinkExtractor
-from ..items import SearchanalysisItem
+
+#from SearchAnalysis import SearchAnalysis
+from SearchAnalysis.items import SearchanalysisItem
 
 inp1 = input("Enter Show Name: ")
 inp1 = "+".join(inp1.split())+"+imdb"
@@ -73,6 +75,3 @@ class GooglesearchSpider(scrapy.Spider):
     #def display(self):
        # print("IMDB Rating:",self.imdbRate)
         #print("Rotten Rating:",self.rottRate)
-
-
-        

@@ -1,0 +1,40 @@
+Course Description,Course Provider,course_University,Course Ratings,Course Name,Total Reviews
+"
+  In this course, get introduced the basic elements of programming (such as expressions, conditionals, and functions) and then use these elements to create simple interactive applications such as a digital stopwatch.
+  ",Coursera,Rice University,Workload and duration,An Introduction to Interactive Programming in Python (Part 1),"Oct 26, 2021"
+"
+  This course will introduce the core data structures of the Python programming language. We will move past the basics of procedural programming and explore how we can use the Python built-in data structures such as lists, dictionaries, and tuples to perfo…
+  ",Coursera,University of Michigan,Start date,Python Data Structures,3309
+"
+  This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In…
+  ",Coursera,University of Michigan,Pricing,Python for Everybody,12621
+"
+  This course aims to teach everyone the basics of programming computers using Python. We cover the basics of how one constructs a program from a series of simple instructions in Python.
+  ",Coursera,University of Michigan,Five out of five stars,Programming for Everybody (Getting Started with Python),396
+"
+  Learn about recursion, search and sort algorithms, and object-oriented programming in Python.
+  ",edX,Georgia Institute of Technology,Workload and duration,Computing in Python IV: Objects & Algorithms,32961
+"
+  Learn Python even if you have no programming background.
+  ",Independent,Georgia Institute of Technology,Start date,Python for Everybody - Exploring Information,78
+"
+  Learn about control structures, one of the most powerful parts of programming. This course covers conditionals, loops, functions, and error handling, specifically in Python but with broader applicability to other languages as well.
+  ",edX,Georgia Institute of Technology,Pricing,Computing in Python II: Control Structures,75
+"
+  Learn the fundamentals of computing in Python, including variables, operators, and writing and debugging your own programs.
+  ",edX,Rice University,Five out of five stars,Computing in Python I: Fundamentals and Procedural Programming,49
+"
+  This two-part course is designed to help students with very little or no computing background learn the basics of building simple interactive applications. Our language of choice, Python, is an easy-to learn, high-level computer language that is used in…
+  ",Coursera,University of Toronto,Workload and duration,An Introduction to Interactive Programming in Python (Part 2),196
+"
+  Behind every mouse click and touch-screen tap, there is a computer program that makes things happen. This course introduces the fundamental building blocks of programming and teaches you how to write fun and useful programs using the Python language.
+  ",Coursera,University of Michigan,Pricing,Learn to Program: The Fundamentals,58
+"
+  This course will show how one can treat the Internet as a source of data.  We will scrape, parse, and read web data as well as access data using web APIs.  We will work with HTML, XML, and JSON data formats in Python.  This course will cover Chapters 11-…
+  ",Coursera,University of Michigan,Five out of five stars,Using Python to Access Web Data,108
+"
+  This course will introduce students to the basics of the Structured Query Language (SQL) as well as basic database design for storing data as part of a multi-step data gathering, analysis, and processing effort.  The course will use SQLite3 as its databa…
+  ",Coursera,Georgia Institute of Technology,Workload and duration,Using Databases with Python,4435
+"
+  Learn more complex ways of handling data, including files, lists, and dictionaries for building complex programs.
+  ",edX,Stanford University,Start date,Computing in Python III: Data Structures,3522

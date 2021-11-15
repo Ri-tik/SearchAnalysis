@@ -17,3 +17,11 @@ class SearchanalysisItem(scrapy.Item):
     imdb_rating_votes= scrapy.Field()
     imdb_reviews= scrapy.Field()
     im_detailed_reviews=scrapy.Field()
+
+class CourseItem(scrapy.Item):
+    course_Title=scrapy.Field()
+    course_Ratings=scrapy.Field()
+    course_TotalReviews=scrapy.Field()
+    course_Provider=scrapy.Field()
+    course_University=scrapy.Field()
+    course_Description=scrapy.Field()
